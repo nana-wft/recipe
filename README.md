@@ -1,2 +1,2 @@
 My favorite recipe
-Chicken salad recipe
+- Chicken salad
