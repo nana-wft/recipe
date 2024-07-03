@@ -9,3 +9,4 @@ line 2 changed remotely
 6. Peanuts
 last line changed locally
 ### This is a REMOTE change :0
+![Chicken Salad Recipe!](C:/Users/anguye/Desktop/recipe/recipe.jpg)
